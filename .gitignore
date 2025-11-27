@@ -1,0 +1,15 @@
+﻿# Electron / Windows
+*.log
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+
+# Node modules (если появятся)
+node_modules/
+
+# Не нужно в репозитории
+CyberSchool-v1.0-win-x64.rar
+структура.txtInformatics.exe 
+setup.iss 
+CyberSchool-v1.0-win-x64.rar 
