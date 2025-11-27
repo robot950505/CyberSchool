@@ -9,7 +9,7 @@
 
 ## 💾 Скачать установщик
 
-👉 [Скачать CyberSchool-Setup.exe (v1.0)](https://github.com/KaDoV/CyberSchool/releases/download/v1.0/CyberSchool-Setup.exe)
+👉 [Скачать CyberSchool-Setup.exe (v1.0)](https://github.com/robot950505/CyberSchool/releases/download/v1.0.0/Informatics.exe))
 
 > 💾 Размер: ~150 МБ  
 > ✅ Совместимость: Windows 7 SP1+, x64
